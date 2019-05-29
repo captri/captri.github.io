@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Matemático de gran gusto por el área.
 
 ### More Information
 
@@ -12,4 +11,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[captri@hotmail.com](mailto:email@domain.com)
