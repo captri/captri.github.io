@@ -3,8 +3,8 @@ layout: post
 title: Mi  primer BLOG!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+Empecemos por ensayar el latex:
+$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
