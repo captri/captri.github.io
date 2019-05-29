@@ -1,10 +1,12 @@
+.page__content {
+  text-align: justify;
+}
+
 ---
 layout: post
 title: Mi  primer BLOG!
 ---
-.page__content {
-  text-align: justify;
-}
+
 Empezamos con algo de Sistemas dinámicos: El teorema de Hartman Grobman
 
 {:refdef: style="text-align: center;"}
