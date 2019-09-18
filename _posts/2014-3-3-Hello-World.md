@@ -3,14 +3,12 @@ layout: post
 title: Mi  primer BLOG!
 ---
 
-Empezamos con algo de Sistemas dinámicos: El teorema de Hartman Grobman
+Empezamos con algo de series de tiempo
+---
+layout: post
+title: Mi segundo BLOG!
+---
 
-{:refdef: style="text-align: center;"}
-![_config.yml]({{ site.baseurl }}/images/hartman.jpg)
-{: refdef}
-
-Uno de los teoremas fundamentales en el estudio de las ecuaciones diferenciales ordinarias y de los sistemas dinámicos es el teorema de Hartman-Grobman. Pero más que dar su demostración es de mi interés conocer mas sus características e implicaciones. Si se requiere una prueba ver por ejemplo la dada por [Hartman (1960)](http://www.ams.org/journals/proc/1960-011-04/S0002-9939-1960-0121542-7/home.html).{: style= "text-align: justify"}
-
-De hecho enuncia así:
-
-**Teorema.** Sean $$E\subset\mathbb{R}^n$$ abierto que contiene al origen, $$f\in C^1(E)$$ y $$\varphi_t$$ el flujo del sistema no lineal $$x'=f(x)$$. Suponiendo que $$f(0)$$ y que la matriz $$A=Df(0)$${:style= "text-align: justify"}
+**Teorema.**(Teorema de Takens) Sean $M$ una variedad compacta de dimensión $m$, $\varphi:M\to M$ un difeomorfismo suave y $f:M\to\mathbb{R}$ una función suave. La función $\Phi_{(\varphi,f)}:M\to\mathbb{R}^{2m+1}$ definida por
+		$$\Phi_{(\varphi,f)}(x):=\left(f(x),f(\varphi(x)),\ldots,f(\varphi^{2m}(x))\right)$$
+		es un embebimiento para genéricas $(\varphi,f)$.
